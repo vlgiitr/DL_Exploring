@@ -18,6 +18,7 @@
 - [Open AI Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
   
 ## Active Learning
+- [Overview of Active Learning for Deep Learning](https://jacobgil.github.io/deeplearning/activelearning)
 
 ## Distillation
 
