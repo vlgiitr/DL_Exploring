@@ -25,7 +25,7 @@ A highly active area of recent research, which aims to learn models which can be
 Deals with problems in sequential decision making, has a lot of applications in robotics and simulations.
 
 - Reinforcement Learning Course by David Silver  [[Link](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)]
-- CS 285 UC BERKLEY -  Deep Reinforcement Learning course by Sergey Levine [Link](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- CS 285 UC BERKLEY -  Deep Reinforcement Learning course by Sergey Levine [[Link](http://rail.eecs.berkeley.edu/deeprlcourse/)]
 - Open AI Spinning Up in Deep RL - Good for beginner implementation details [[Link](https://spinningup.openai.com/en/latest/)]
   
 ## Active Learning
