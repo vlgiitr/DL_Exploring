@@ -16,6 +16,7 @@ The field mainly focused on applying deep learning on non euclidean data like gr
 A highly active area of recent research, which aims to learn models which can be easily adpated to learn new tasks often said as "learning to learn".
 
 - CS 330- Deep Multi-Task and Meta Learning By Chelsea Finn, Stanford [[Link](https://cs330.stanford.edu/)]
+- Meta-Learning: Learning to Learn Fast - Blog post in Lil'Log [[Link](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)] 
 
 
 ## Bayesian Deep Learning
