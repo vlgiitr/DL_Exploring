@@ -36,7 +36,7 @@ Deals with problem of expensive data labelling and tries to figure out which unl
 
 ## 3D Deep Learning
 
-- Step by Step Implementation: 3D Convolutional Neural Network in Keras [[Link](https://towardsdatascience.com/step-by-step-implementation-3d-convolutional-neural-network-in-keras-12efbdd7b130)]
+- 3D Deep Learning Tutorial [[Link](https://www.youtube.com/watch?v=vfL6uJYFrp4)]
 - Deep Learning Advances on Different 3D Data Representations: A Survey [[Link](https://www.researchgate.net/profile/Djamila_Aouada/publication/326870805_Deep_Learning_Advances_on_Different_3D_Data_Representations_A_Survey/links/5b85406c92851c1e12370748/Deep-Learning-Advances-on-Different-3D-Data-Representations-A-Survey.pdf)]
 - Deep Learning for 3D Point Clouds: A Survey [[Link](https://arxiv.org/abs/1912.12033)]
 
