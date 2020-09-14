@@ -40,7 +40,7 @@ Deals with problem of expensive data labelling and tries to figure out which unl
 - Deep Learning Advances on Different 3D Data Representations: A Survey [[Link](https://www.researchgate.net/profile/Djamila_Aouada/publication/326870805_Deep_Learning_Advances_on_Different_3D_Data_Representations_A_Survey/links/5b85406c92851c1e12370748/Deep-Learning-Advances-on-Different-3D-Data-Representations-A-Survey.pdf)]
 - Deep Learning for 3D Point Clouds: A Survey [[Link](https://arxiv.org/abs/1912.12033)]
 - Beyond the pixel plane: sensing and learning in 3D [[Link](https://thegradient.pub/beyond-the-pixel-plane-sensing-and-learning-in-3d/)]
-
+- CS231A: Computer Vision, From 3D Reconstruction to Recognition notes [[Link](http://web.stanford.edu/class/cs231a/course_notes.html)]
 ## Distillation
 
 ## Pruning
